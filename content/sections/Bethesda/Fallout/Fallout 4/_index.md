@@ -1,5 +1,5 @@
 ---
 title: Fallout 4 
-image: fallout4.jpg
+image: fallout4.png
 ---
 
